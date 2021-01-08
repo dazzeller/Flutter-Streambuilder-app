@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030949943136",
+    "project_id": "command-stream-task",
+    "storage_bucket": "command-stream-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030949943136:android:709ab6e3d1eb34e8b35005",
+        "android_client_info": {
+          "package_name": "com.example.stream_command_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030949943136-06349jddv0ctke8ufgf0ovv246h336dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ppwxLOQy4cy9MdZAkPXf1anhBptxim0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030949943136-06349jddv0ctke8ufgf0ovv246h336dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
